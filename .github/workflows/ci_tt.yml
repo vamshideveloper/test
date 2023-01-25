@@ -6,7 +6,7 @@ on:
       - main
     paths:
       - test_action/**
-      - .github/workflows/ci.yml
+      - .github/workflows/ci_tt.yml
  
 
 jobs:
