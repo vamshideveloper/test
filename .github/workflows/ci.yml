@@ -1,11 +1,11 @@
 name: CI
-
+      
 on:
   push:
     branches:
       - main
     paths:
-      - test_action/
+      - test_action/**
  
 
 jobs:
